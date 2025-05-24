@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Currently working at [Alchotech](https://alchotech.com/)
+- 🔭 Currently working at [**Alchotech**](https://alchotech.com/)
 - 💬 Ask me about **PHP, JavaScript, DBMS, CodeIgniter**
 - 📫 Reach me at **abhishekpotter77@gmail.com**
 
@@ -72,6 +72,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="right">
+  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=abhipotter&theme=onedark&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" alt="trophies" />
   </a>
@@ -82,7 +83,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abhipotter&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
+</p>
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhipotter&theme=tokyonight" alt="streak" width="48%" />
 </p>
+
