@@ -71,6 +71,9 @@
 
 -->
 
+
+<!-- 
+
 ### 🏆 GitHub Trophies
 
 <p align="right">
@@ -79,17 +82,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abhipotter&theme=onedark&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" alt="trophies" />
   </a>
 </p>
-
-
 ---
+
+-->
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abhipotter&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-</p>
-<p align="right">
+</p> -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhipotter&theme=tokyonight" alt="streak" width="48%" />
 </p>
 
