@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Potter&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Dynamic+%26+Scalable+Web+Apps+%F0%9F%9A%80;PHP+%7C+JavaScript+%7C+Node.js+%7C+React;Always+learning+new+technologies+%F0%9F%92%A1;Turning+ideas+into+reality+through+code+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
